@@ -1,0 +1,26 @@
+html {
+    display: block;
+    text-align: center;
+    background-color: beige;
+}
+
+form input {
+    width: 300px;
+}
+
+.alert { 
+    color: red;
+}
+
+
+.todo-list {
+    margin-top: 30px;
+}
+
+.todo-list span {
+    padding: 3px;
+}
+
+.todo-list button {
+    padding: 0px 1px;
+}
